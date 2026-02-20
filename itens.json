@@ -1,4 +1,5 @@
 [
+  { "_": "################ BARBAS ################" },
   {
     "nome": "Bigode e Cavanhaque",
     "autor": "@streak",
@@ -6,6 +7,8 @@
     "sub": "barbas",
     "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifC1GM8msDMDR_ESVpEN-sXMWmplIZZDLKuA1Gc5P0KeI-9NEcnv5HR5P5eErObD0MieTvGOXn9uKUi2aKOzOEqTVcb70Yp7KgtS4wf3iA34XQu0oUVlmAmVrh2lR2FLRTNTI1JOr8Z2fvRLH8Nrg64qnmWPZa4nRvB-u9PFZmx8blp6YUVtgAfHBw6DXO/s515/1000100177.png"
   },
+
+  { "_": "################ CHAPÉUS ################" },
   {
   "nome": "Chapeu de palha",
   "autor": "@streak",
@@ -20,6 +23,8 @@
     "sub": "chapéus",
     "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZaUMzL_K1GTzB4dmUWSG2UBviMnNgdWGgWtDMtwSgoU4tu4BoP38En2D3VGSFTs_i32lMXVrB6onQ9gBWHF3rEpVN73NXXSVNzFpPVFmD54fKFWPEu3ttpAOAzNme3d-k6IwUofjro_JEZXCOnJ7srdxBE3X5o4Xt15yq9TNTHRlbs3fHnfguPUZaF0gL/s1280/hat-2525910_1280_20260219143203.png"
   },
+
+  { "_": "################ ÓCULOS ################" },
   {
   "nome": "Juliet",
   "autor": "@streak",

@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "titulo": "Nova Atualização!",
+  "mensagem": "Adicionamos novos óculos Juliet e barbas exclusivas. Confira agora!",
+  "imagem": "https://seu-link-aqui.com/banner.png",
+  "textoBotao": "Ver Novidades",
+  "linkBotao": "https://google.com",
+  "mostrarBotao": true
+}

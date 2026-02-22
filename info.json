@@ -6,4 +6,13 @@
   "textoBotao": "Atualizar App",
   "linkBotao": "",
   "mostrarBotao": false
+},
+{
+  "id": 1,
+  "titulo": "Seja Bem-Vindo",
+  "mensagem": "Personalize seu foguinho",
+  "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE2XWfEd4wdu8V1t_BaOw-K_A3UWrOycSM2bNcyP2vi4np4blPC4XFuyueaTQRrK590Jx-ojm37omfXZRALhGZ4wyEXwy1d7IMfODfbO4CzImkkKeIIgaDeXvOzhsb38gGKtw105l3dxj5IFNugScV6TRBwKWnYWwj7l3rWzFPXZKE2h5Tr8yuJ2_508ND/s500/favicon.png",
+  "textoBotao": "Atualizar",
+  "linkBotao": "",
+  "mostrarBotao": true
 }

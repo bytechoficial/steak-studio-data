@@ -47,5 +47,12 @@
     "categoria": "PETS",
     "sub": "CACHORRO",
     "autor": "@streak"
+  },
+  {
+    "nome": "Nikito",
+    "imagem": "https://static.vecteezy.com/system/resources/previews/008/483/736/large_2x/cute-cat-cartoon-kitten-pet-png.png",
+    "categoria": "PETS",
+    "sub": "GATOS",
+    "autor": "@streak"
   }
 ]

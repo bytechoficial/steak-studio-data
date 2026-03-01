@@ -1,4 +1,4 @@
 {
-  "custom_logo_html": "<div class='minha-logo'>STREAK <span>STUDIO</span></div>",
-  "custom_css": ".minha-logo { font-size: 30px; font-weight: bold; color: gold; text-shadow: 2px 2px black; } .minha-logo span { color: white; }"
+  "logo_url": "",
+  "custom_css": ".minha-logo { color: #ffb7ce; font-size: 30px; text-shadow: 2px 2px white; } .minha-logo span { color: #b2e2f2; }"
 }

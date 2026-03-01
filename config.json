@@ -1,4 +1,4 @@
 {
   "logo_url": "",
-  "custom_css": "<div class=\"minha-logo\" style=\"font-size: 30px; font-weight: 900; color: #ffb7ce; text-shadow: 2px 2px 0px #fff; display: flex; align-items: center; gap: 8px; font-style: italic; animation: bounce 2s infinite;\">\n  STREAK <span style=\"color: #b2e2f2; text-shadow: 2px 2px 0px #fff;\">STUDIO</span> 🐰\n  \n  <style>\n    @keyframes bounce {\n      0%, 100% { transform: translateY(0); }\n      50% { transform: translateY(-5px); }\n    }\n  </style>\n</div>\n"
+  "custom_css": "/* Estilo de Páscoa para a sua classe */\n.minha-logo { \n    font-size: 30px; \n    font-weight: 900; \n    font-style: italic;\n    color: #ffb7ce; /* Rosa Pastel */\n    text-shadow: 2px 2px 0px #ffffff, 0 0 15px rgba(255, 183, 206, 0.4);\n    letter-spacing: -1px;\n    animation: bounce 2s infinite ease-in-out;\n}\n\n/* Cor do STUDIO */\n.minha-logo span { \n    color: #b2e2f2; /* Azul Pastel */\n    text-shadow: 2px 2px 0px #ffffff;\n}\n\n/* Animação de pulinho do coelho */\n@keyframes bounce {\n    0%, 100% { transform: translateY(0); }\n    50% { transform: translateY(-6px); }\n}"
 }

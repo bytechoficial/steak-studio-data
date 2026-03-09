@@ -82,5 +82,12 @@
     "categoria": "FUNDOS",
     "sub": "EXTERIORES",
     "autor": "@streak"
+  },
+  {
+    "nome": "Guitarra Vermelha",
+    "imagem": "https://i.ibb.co/8nkpyW9P/1000105522-removebg-preview.png",
+    "categoria": "OBJETOS",
+    "sub": "INSTRUMENTOS",
+    "autor": "@streak"
   }
 ]

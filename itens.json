@@ -96,5 +96,12 @@
     "categoria": "ESTILO",
     "sub": "ÓCULOS",
     "autor": "@streak"
+  },
+  {
+    "nome": "Guitarra Nightblade",
+    "imagem": "https://i.ibb.co/vxRY9NLW/1000105525-removebg-preview.png",
+    "categoria": "OBJETOS",
+    "sub": "INSTRUMENTOS",
+    "autor": "@streak"
   }
 ]

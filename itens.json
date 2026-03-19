@@ -138,5 +138,12 @@
     "categoria": "ESTILO",
     "sub": "CABELOS",
     "autor": "@streak"
+  },
+  {
+    "nome": "BMW",
+    "imagem": "https://i.ibb.co/93qdbF8k/3-2-bmw-png-image.png",
+    "categoria": "VEÍCULOS",
+    "sub": "CARROS",
+    "autor": "@streak"
   }
 ]

@@ -145,5 +145,12 @@
     "categoria": "VEÍCULOS",
     "sub": "CARROS",
     "autor": "@streak"
+  },
+  {
+    "nome": "MV Agusta F4",
+    "imagem": "https://i.ibb.co/VY1jKdkG/pngtree-motorbike-png-image-14237669.png",
+    "categoria": "VEÍCULOS",
+    "sub": "MOTOS",
+    "autor": "@streak"
   }
 ]
